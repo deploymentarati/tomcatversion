@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  custom-tomcat:
+  - apiVersion: v2
+    appVersion: 9.0.20
+    created: "2024-01-24T20:12:11.878813402+05:30"
+    description: A Helm chart for custom tomcat version
+    digest: 71595b60b25bea9a2093ed88f803267fb8f052fa0df6076abd4fe8b46154b5ee
+    name: custom-tomcat
+    type: application
+    urls:
+    - custom-tomcat-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-01-24T20:12:11.878260687+05:30"
